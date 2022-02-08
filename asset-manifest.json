@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/al-husayn/React-Tutorial.git/static/css/main.9345b6e2.css",
+    "main.js": "/al-husayn/React-Tutorial.git/static/js/main.7b7d2b84.js",
+    "index.html": "/al-husayn/React-Tutorial.git/index.html",
+    "main.9345b6e2.css.map": "/al-husayn/React-Tutorial.git/static/css/main.9345b6e2.css.map",
+    "main.7b7d2b84.js.map": "/al-husayn/React-Tutorial.git/static/js/main.7b7d2b84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.7b7d2b84.js"
+  ]
+}
